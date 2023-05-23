@@ -1,0 +1,18 @@
+total 5128
+drwxr-xr-x 1 Faithful 197121       0 May 22 16:23 ./
+drwxr-xr-x 1 Faithful 197121       0 May 22 16:23 ../
+-rw-r--r-- 1 Faithful 197121   18765 Apr 19 06:02 LICENSE.txt
+-rw-r--r-- 1 Faithful 197121  242076 Apr 19 06:02 ReleaseNotes.html
+drwxr-xr-x 1 Faithful 197121       0 May 22 16:23 bin/
+drwxr-xr-x 1 Faithful 197121       0 May 22 16:23 cmd/
+drwxr-xr-x 1 Faithful 197121       0 May 22 16:23 dev/
+drwxr-xr-x 1 Faithful 197121       0 May 22 16:23 etc/
+-rwxr-xr-x 1 Faithful 197121  137264 Apr 19 05:40 git-bash.exe*
+-rwxr-xr-x 1 Faithful 197121  136752 Apr 19 05:40 git-cmd.exe*
+drwxr-xr-x 1 Faithful 197121       0 May 22 16:23 mingw64/
+dr-xr-xr-x 9 Faithful 197121       0 May 23 23:06 proc/
+drwxr-xr-x 1 Faithful 197121       0 May 23 22:39 tmp/
+-rw-r--r-- 1 Faithful 197121 1252444 May 22 16:23 unins000.dat
+-rwxr-xr-x 1 Faithful 197121 3215248 May 22 16:18 unins000.exe*
+-rw-r--r-- 1 Faithful 197121   24183 May 22 16:23 unins000.msg
+drwxr-xr-x 1 Faithful 197121       0 May 22 16:23 usr/
