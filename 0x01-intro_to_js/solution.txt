@@ -1,0 +1,36 @@
+1.	In simplicity, what this mean is that, when a variable is declared by the use of the let key, and in the event when there has to be a change in the value, this change in the value can be effected by reassigning the variable to a new value.
+The let keyword is used to declare variables that are blocked-scoped. Also, variables declared by the let keyword can be used to reassign to a new value which of course allows variables for alteration. 
+
+The const keyword is also used to declare variables that are blocked-scoped but this time around, with an additional quality; the values of const variables are immutable. What this also mean is that, when the const key is used to declare a variable, it cannot be reassigned to a new value. However, even though variables declared by the const key cannot be reassigned to a new value, they can be redeclared.
+
+In addition, the distinction that resides between let and const keywords from the var keyword are quiet are enormous. Below are just a few out of the many;
+
+a. Reassignment: Variables declared by the let and var keywords can be reassigned to new values unlike variables declared by const.
+
+b. Redeclaration: Variables declared by const can be redeclared within the same scope without errors whereas variables declared by var and let cannot be redeclared within the same scope. 
+
+c. Scope: Variables declared with the let and const keywords are blocked-scoped of which means that, they are restricted in scope to the block (i.e a set of curly braces or brackets). On the other hand, variables declared by var are globally or function scoped and this is dependent on where they are defined. 
+
+
+2.	You can use a variable after it has been defined by referencing its name to a cold. Nonetheless, the usage of a variable depends in a context and what you want to do with it. Below are some few instances of how to use a variable after it has been defined;
+
+a.	Performing operations with variables.
+
+b.	Using variables in control flow structures.
+
+c.	Assigning a value to a variable.
+
+
+3.	A string is declared by the use of single quotes (‘ ‘) and double quotes (“ “).
+
+4.	Yes, strings can be created by using both the single and double quotes. The reason is, both options are functionally equivalent for declaring strings and these are also standard practices.
+
+.
+5.	9 with quotes is a string literal whereas 9 without quote is a numeric literal.
+
+6.	The differences are as follows;
+
+-	Declaration is the act of introducing a variable into a program.
+-	Redeclaration is when we declare a variable with the same name again within the same scope.
+-	Assignment is the act of assigning a value to a variable that has already been declared.
+-	Reassignment is when you assign a new value to a variable that already holds a value.
